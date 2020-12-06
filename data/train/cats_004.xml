@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>cats_004</filename>
+  <path>cats_004.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>474</width>
+    <height>355</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1</ymin>
+      <xmax>393</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>

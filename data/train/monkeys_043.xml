@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>monkeys_043</filename>
+  <path>monkeys_043.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>474</width>
+    <height>315</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>monkey</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>46</ymin>
+      <xmax>367</xmax>
+      <ymax>311</ymax>
+    </bndbox>
+  </object>
+</annotation>

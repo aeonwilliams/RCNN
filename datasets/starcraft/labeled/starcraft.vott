@@ -1,0 +1,329 @@
+{
+    "name": "starcraft",
+    "securityToken": "starcraft Token",
+    "sourceConnection": {
+        "name": "src",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmE0ZmY5MDcxZWYyOGJlYThmOTZjMjk4M2Q4MTc5NWEwMzhkMGRhMTlhMGMwNzBjOTFhYzBhOGMxN2E2ZmJjMzE4Y2JjZjkyNGVmMDA3NjI2ODQ3YTQ2ODNjZThiMmVhYzA1ZjQyOGJiMjQ2MDEzNGQ1MDc1ZmJiNWQ5NGIyYmQ2NjU5ZDk3MTg3YjVjZTU1YWI1NWRjODRkNzBjMmRjNTJkOGIyYzRjNjM3MjliZDhiYzhjMjllZmY1MjY2Mjk1MThkZjg2MTM3YmJiZmVkMjRiZjlhYjc4ZmIxZThlMDYxMTRiNzc2ZDQ1MTEwNjBiNzVjNmRjYjA0YWIyZmEwMiIsIml2IjoiNGY1MGQ3NjBhNjg0MjRjYWFjMmU3YmJiYjEzYjBlYmNiZmM3YWQ5YTk1ZWMyNjI4In0="
+        },
+        "id": "_Uj-_KsWG"
+    },
+    "targetConnection": {
+        "name": "labeled_src",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTVkNTY0ZTdmZjE2MmEzMmQwNmY3M2JkZWI4YmM0NjllYTkxODk5MzI4ZTM1ZjQ2NjUxY2MwOGVlOGQ4MmVhYWFkOTA3YTdlYTc4NDdlOWZkMWEyY2UwZjg5OTY4ZTg3YzgwN2Y0MjVhMDY3MjVhZDY3Mjc2YTIyMjE3MmEyN2QyMWUzOGI2ZGY1NzQyOTY3OWUyZjA5ODMyNWRiMDdhNmY1MjdlYjMxMTM3NjgwYjdlYmI5MDI0MGQ1N2MzMDc4ODMxODhiZDkzZTE1NzcxOGJkZmEyY2E0ZjBkZmYxYmU1ZjY0ZDkwMjRhYzM2ZDYzMGFiZmEzOTVjYmQxNTBhMGQ4ZmUxNWNmNjk0MjZjMTU0YTZiMzNhZGYwMTAwYWFjIiwiaXYiOiI0MzgwOGE0MDNhZTE0NmFmNmQ5ZjRhZWRhYTFiNzFmMmI2NGE0ZjZiMzRmMzM1NDIifQ=="
+        },
+        "id": "R4mOrh243"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Hydralisk",
+            "color": "#800000"
+        },
+        {
+            "name": "Drone",
+            "color": "#FFFF00"
+        },
+        {
+            "name": "Zergling",
+            "color": "#808000"
+        }
+    ],
+    "id": "GXAAPq1iK",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGE4NWUzMjY3ODkwM2ViNmJhNjlhNjlmNWZmNzg2NDQ0YTJiN2ViOGRlOWY5Nzk4NTQ5NDc5OGJlZDRlZGQ1NzJlOGJlNzVhZjVkZDcyNmQ3MDNkMDMyOGVjNzExM2E0IiwiaXYiOiI5ZWUyMGI2MGEyMDQzOGNiYjQwMDI3NTg1NzcxOTcyYjNiYzU3MWIyNDllYTJjOTYifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "577f40eb93347b0a428f15bbedf1eeb9",
+    "assets": {
+        "18b8bb4fdeb9efa497402c8456e2fbca": {
+            "format": "PNG",
+            "id": "18b8bb4fdeb9efa497402c8456e2fbca",
+            "name": "Capture.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture.PNG",
+            "size": {
+                "width": 361,
+                "height": 214
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2da97e0cb41c2fd712d9de44fcb920d": {
+            "format": "PNG",
+            "id": "c2da97e0cb41c2fd712d9de44fcb920d",
+            "name": "Capture10.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture10.PNG",
+            "size": {
+                "width": 594,
+                "height": 398
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d26817912e9a65cb2c1d541095c594b": {
+            "format": "PNG",
+            "id": "7d26817912e9a65cb2c1d541095c594b",
+            "name": "Capture11.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture11.PNG",
+            "size": {
+                "width": 419,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6a914e1c6b69a359b01f4e7a9008e51": {
+            "format": "PNG",
+            "id": "c6a914e1c6b69a359b01f4e7a9008e51",
+            "name": "Capture12.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture12.PNG",
+            "size": {
+                "width": 414,
+                "height": 344
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90265951612c3e8b125bc34192d84be3": {
+            "format": "PNG",
+            "id": "90265951612c3e8b125bc34192d84be3",
+            "name": "Capture13.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture13.PNG",
+            "size": {
+                "width": 381,
+                "height": 274
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e669f2e44fd441246f5183326767e97": {
+            "format": "PNG",
+            "id": "2e669f2e44fd441246f5183326767e97",
+            "name": "Capture14.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture14.PNG",
+            "size": {
+                "width": 304,
+                "height": 171
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f280423e031223d316d7ce56d8a312d": {
+            "format": "PNG",
+            "id": "4f280423e031223d316d7ce56d8a312d",
+            "name": "Capture15.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture15.PNG",
+            "size": {
+                "width": 351,
+                "height": 302
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c499dae0373965d0f5066d4f92335af": {
+            "format": "PNG",
+            "id": "4c499dae0373965d0f5066d4f92335af",
+            "name": "Capture16.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture16.PNG",
+            "size": {
+                "width": 678,
+                "height": 531
+            },
+            "state": 2,
+            "type": 1
+        },
+        "248980622d02bda2019ad1e92d59c843": {
+            "format": "PNG",
+            "id": "248980622d02bda2019ad1e92d59c843",
+            "name": "Capture17.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture17.PNG",
+            "size": {
+                "width": 695,
+                "height": 544
+            },
+            "state": 2,
+            "type": 1
+        },
+        "203e91e8f22a7101f4899474a16c6f5f": {
+            "format": "PNG",
+            "id": "203e91e8f22a7101f4899474a16c6f5f",
+            "name": "Capture18.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture18.PNG",
+            "size": {
+                "width": 436,
+                "height": 317
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f0196a7060e8360e3c98212aee2405c": {
+            "format": "PNG",
+            "id": "2f0196a7060e8360e3c98212aee2405c",
+            "name": "Capture19.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture19.PNG",
+            "size": {
+                "width": 136,
+                "height": 139
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47eecdcc38597a5aeba7c865ea8077a5": {
+            "format": "PNG",
+            "id": "47eecdcc38597a5aeba7c865ea8077a5",
+            "name": "Capture2.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture2.PNG",
+            "size": {
+                "width": 426,
+                "height": 291
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ea95b9e94a999a14faee5a277b22f5f": {
+            "format": "PNG",
+            "id": "6ea95b9e94a999a14faee5a277b22f5f",
+            "name": "Capture20.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture20.PNG",
+            "size": {
+                "width": 154,
+                "height": 115
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6da39b214dabbe9cf5d846d14ed62dc8": {
+            "format": "PNG",
+            "id": "6da39b214dabbe9cf5d846d14ed62dc8",
+            "name": "Capture21.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture21.PNG",
+            "size": {
+                "width": 156,
+                "height": 147
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1cde784d6b1ca0ab0062c22901646326": {
+            "format": "PNG",
+            "id": "1cde784d6b1ca0ab0062c22901646326",
+            "name": "Capture22.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture22.PNG",
+            "size": {
+                "width": 179,
+                "height": 125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "276da2a911b99904aa4859b7d038fbd2": {
+            "format": "PNG",
+            "id": "276da2a911b99904aa4859b7d038fbd2",
+            "name": "Capture23.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture23.PNG",
+            "size": {
+                "width": 372,
+                "height": 207
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d11ea1f3cea587d65a94e7f4137a908": {
+            "format": "PNG",
+            "id": "0d11ea1f3cea587d65a94e7f4137a908",
+            "name": "Capture25.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture25.PNG",
+            "size": {
+                "width": 88,
+                "height": 97
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f74bc587da57248cc6106940a7a70102": {
+            "format": "PNG",
+            "id": "f74bc587da57248cc6106940a7a70102",
+            "name": "Capture3.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture3.PNG",
+            "size": {
+                "width": 466,
+                "height": 421
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd84c00b7579c0069710b1fe5d9e82a3": {
+            "format": "PNG",
+            "id": "bd84c00b7579c0069710b1fe5d9e82a3",
+            "name": "Capture4.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture4.PNG",
+            "size": {
+                "width": 457,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "911796d98fc3dfe693f100ba07f18ee6": {
+            "format": "PNG",
+            "id": "911796d98fc3dfe693f100ba07f18ee6",
+            "name": "Capture6.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture6.PNG",
+            "size": {
+                "width": 849,
+                "height": 569
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d223cdd5d9aa2aa69614a895399eb2a6": {
+            "format": "PNG",
+            "id": "d223cdd5d9aa2aa69614a895399eb2a6",
+            "name": "Capture7.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture7.PNG",
+            "size": {
+                "width": 515,
+                "height": 496
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24ef3ba0495a4fdf727e6a4a64af663f": {
+            "format": "PNG",
+            "id": "24ef3ba0495a4fdf727e6a4a64af663f",
+            "name": "Capture8.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture8.PNG",
+            "size": {
+                "width": 1213,
+                "height": 553
+            },
+            "state": 2,
+            "type": 1
+        },
+        "577f40eb93347b0a428f15bbedf1eeb9": {
+            "format": "PNG",
+            "id": "577f40eb93347b0a428f15bbedf1eeb9",
+            "name": "Capture9.PNG",
+            "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture9.PNG",
+            "size": {
+                "width": 506,
+                "height": 324
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

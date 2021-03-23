@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "PNG",
+        "id": "1cde784d6b1ca0ab0062c22901646326",
+        "name": "Capture22.PNG",
+        "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture22.PNG",
+        "size": {
+            "width": 179,
+            "height": 125
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "B-iV6bI1c",
+            "type": "RECTANGLE",
+            "tags": [
+                "Drone"
+            ],
+            "boundingBox": {
+                "height": 71.81638696939783,
+                "width": 111.7670572019297,
+                "left": 12.33631977946244,
+                "top": 23.154075148075027
+            },
+            "points": [
+                {
+                    "x": 12.33631977946244,
+                    "y": 23.154075148075027
+                },
+                {
+                    "x": 124.10337698139215,
+                    "y": 23.154075148075027
+                },
+                {
+                    "x": 124.10337698139215,
+                    "y": 94.97046211747286
+                },
+                {
+                    "x": 12.33631977946244,
+                    "y": 94.97046211747286
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

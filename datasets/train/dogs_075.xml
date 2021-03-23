@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>dogs_075</filename>
+  <path>dogs_075.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>474</width>
+    <height>711</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>27</ymin>
+      <xmax>474</xmax>
+      <ymax>711</ymax>
+    </bndbox>
+  </object>
+</annotation>

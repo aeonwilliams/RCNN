@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "PNG",
+        "id": "0d11ea1f3cea587d65a94e7f4137a908",
+        "name": "Capture25.PNG",
+        "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture25.PNG",
+        "size": {
+            "width": 88,
+            "height": 97
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "vQdxmyHL5",
+            "type": "RECTANGLE",
+            "tags": [
+                "Zergling"
+            ],
+            "boundingBox": {
+                "height": 72.09961685823755,
+                "width": 67.92819429778247,
+                "left": 14.410638859556494,
+                "top": 13.936781609195403
+            },
+            "points": [
+                {
+                    "x": 14.410638859556494,
+                    "y": 13.936781609195403
+                },
+                {
+                    "x": 82.33883315733897,
+                    "y": 13.936781609195403
+                },
+                {
+                    "x": 82.33883315733897,
+                    "y": 86.03639846743296
+                },
+                {
+                    "x": 14.410638859556494,
+                    "y": 86.03639846743296
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

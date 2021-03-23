@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "PNG",
+        "id": "2f0196a7060e8360e3c98212aee2405c",
+        "name": "Capture19.PNG",
+        "path": "file:C:/Users/Aeon%20Williams/Documents/School/RCNN_StarCraft_ImageProcessing/RCNN/datasets/starcraft/Capture19.PNG",
+        "size": {
+            "width": 136,
+            "height": 139
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "U8xwNp7CM",
+            "type": "RECTANGLE",
+            "tags": [
+                "Hydralisk"
+            ],
+            "boundingBox": {
+                "height": 90.80268199233717,
+                "width": 106.02938295788444,
+                "left": 12.81868266405485,
+                "top": 25.69636015325671
+            },
+            "points": [
+                {
+                    "x": 12.81868266405485,
+                    "y": 25.69636015325671
+                },
+                {
+                    "x": 118.84806562193928,
+                    "y": 25.69636015325671
+                },
+                {
+                    "x": 118.84806562193928,
+                    "y": 116.49904214559388
+                },
+                {
+                    "x": 12.81868266405485,
+                    "y": 116.49904214559388
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

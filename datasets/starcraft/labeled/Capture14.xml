@@ -1,0 +1,25 @@
+<root><row>
+    <image>Capture14.PNG</image>
+    <xmin>22.20813232</xmin>
+    <ymin>35.43508732</ymin>
+    <xmax>117.3259821</xmax>
+    <ymax>129.3174403</ymax>
+    <label>Hydralisk</label>
+  </row>
+  <row>
+    <image>Capture14.PNG</image>
+    <xmin>114.8118539</xmin>
+    <ymin>31.87258732</ymin>
+    <xmax>176.8270159</xmax>
+    <ymax>138.3284697</ymax>
+    <label>Hydralisk</label>
+  </row>
+  <row>
+    <image>Capture14.PNG</image>
+    <xmin>174.9414197</xmin>
+    <ymin>34.80641085</ymin>
+    <xmax>252.2508615</xmax>
+    <ymax>132.041705</ymax>
+    <label>Hydralisk</label>
+  </row>
+  </root>
